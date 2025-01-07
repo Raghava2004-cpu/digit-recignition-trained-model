@@ -1,1 +1,1 @@
-# digit-recignition-trained-model
+# digit-recognition-trained-model
